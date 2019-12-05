@@ -1,14 +1,8 @@
-[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity)
-![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
-![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
-![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-[![GitHub](https://img.shields.io/twitter/follow/axsaucedo.svg?label=Follow)](https://twitter.com/AxSaucedo/)
+# My awesome collection
 
+This repository contains a list of awesome resources for Computer Science / Machine Learning.
 
-# Awesome production machine learning
-
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning.
+Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ## Quick links to sections in this page
 
@@ -20,41 +14,8 @@ This repository contains a curated list of awesome open source libraries that wi
 | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
-| [💰 Commercial Platforms](#commercial-platforms)
-
-## 10 Min Video Overview
-
-<table>
-  <tr>
-    <td width="30%">
-        This <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo.
-    </td>
-    <td width="70%">
-        <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY"><img src="images/video.png"></a>
-    </td>
-  </tr>
-</table>
-
-## Want to receive recurrent updates on this repo and other advancements?
-
-<table>
-  <tr>
-    <td width="30%">
-         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. You will receive updates on open source frameworks, tutorials and articles curated by machine learning professionals.
-    </td>
-    <td width="70%">
-        <a href="https://ethical.institute/mle.html"><img src="images/mleng.png"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/">Awesome Artificial Intelligence Guidelines</a> List, where we aim to map the landscape of "Frameworks", "Codes of Ethics", "Guidelines", "Regulations", etc related to Artificial Intelligence.
-    </td>
-    <td width="70%">
-        <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/"><img src="images/guidelines.jpg"></a>
-    </td>
-  </tr>
-</table>
+| [💰 Commercial Platforms](#commercial-platforms) | [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
+| [😎 Cool projects](#cool-projects) | [📌 Other resources](#other-resources)
 
 
 # Main Content
@@ -331,5 +292,26 @@ This repository contains a curated list of awesome open source libraries that wi
 * [Talend Studio](https://www.talend.com/)
 
 
+## Data
+* [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus)
+* [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8)
 
 
+## Recipe, Tutorial, Tip & Tricks
+* [EffectiveTF](https://github.com/vahidk/EffectiveTensorflow)
+* [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+* [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design)
+* [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/)
+* [Data Performance](https://www.tensorflow.org/guide/data_performance)
+* [pythontips](http://book.pythontips.com/en/latest/)
+
+
+## Cool projects
+* [Numpy-ML](https://github.com/ddbourgin/numpy-ml)
+* [huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf. Your agents are standing by!
+
+## Other resources
+* [Awesome collections](https://github.com/sindresorhus/awesome)
+* [tf_benchmark](https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks)
+* [webscraping-thread](https://news.ycombinator.com/item?id=15694118)
+* [relp-repo](https://repl.it/site/blog/github)
