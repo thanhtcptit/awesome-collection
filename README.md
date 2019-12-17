@@ -315,3 +315,4 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [tf_benchmark](https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks)
 * [webscraping-thread](https://news.ycombinator.com/item?id=15694118)
 * [relp-repo](https://repl.it/site/blog/github)
+* [dlib](http://dlib.net/books.html)
