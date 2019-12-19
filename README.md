@@ -309,6 +309,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 ## Cool projects
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml)
 * [huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf. Your agents are standing by!
+* [face-swap](https://github.com/YuvalNirkin/face_swap)
 
 ## Other resources
 * [Awesome collections](https://github.com/sindresorhus/awesome)
