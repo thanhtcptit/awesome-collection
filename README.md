@@ -304,6 +304,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/)
 * [Data Performance](https://www.tensorflow.org/guide/data_performance)
 * [pythontips](http://book.pythontips.com/en/latest/)
+* [awesome-guideline](https://github.com/ethicalml/awesome-artificial-intelligence-guidelines)
 
 
 ## Cool projects
