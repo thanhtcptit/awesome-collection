@@ -305,6 +305,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [Data Performance](https://www.tensorflow.org/guide/data_performance)
 * [pythontips](http://book.pythontips.com/en/latest/)
 * [awesome-guideline](https://github.com/ethicalml/awesome-artificial-intelligence-guidelines)
+* [Full Stack DL](https://fullstackdeeplearning.com/march2019)
 
 
 ## Cool projects
