@@ -15,7 +15,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
 | [💰 Commercial Platforms](#commercial-platforms) | [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
-| [😎 Cool projects](#cool-projects) | [📌 Other resources](#other-resources)
+| [😎 Cool projects](#cool-projects) | [📌 Other resources & references](#other-resources--references) | [Book & Roadmap](#book--roadmap)
 
 
 # Main Content
@@ -293,29 +293,29 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 
 
 ## Data
-* [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus)
-* [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8)
+* [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
+* [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
 
 
 ## Recipe, Tutorial, Tip & Tricks
-* [EffectiveTF](https://github.com/vahidk/EffectiveTensorflow)
-* [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
-* [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design)
-* [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/)
-* [Data Performance](https://www.tensorflow.org/guide/data_performance)
-* [pythontips](http://book.pythontips.com/en/latest/)
-* [awesome-guideline](https://github.com/ethicalml/awesome-artificial-intelligence-guidelines)
-* [Full Stack DL](https://fullstackdeeplearning.com/march2019)
+* [EffectiveTF](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow 1.x and 2.x tutorials and best practices
+* [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - A Recipe for Training Neural Networks
+* [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
+* [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/) - How to Train Your ResNet 8: Bag of Tricks
+* [Data Performance](https://www.tensorflow.org/guide/data_performance) - Better performance with the tf.data API
+* [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
+* [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
 
 
 ## Cool projects
-* [Numpy-ML](https://github.com/ddbourgin/numpy-ml)
+* [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf. Your agents are standing by!
-* [face-swap](https://github.com/YuvalNirkin/face_swap)
+* [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline
 
-## Other resources
-* [Awesome collections](https://github.com/sindresorhus/awesome)
-* [tf_benchmark](https://github.com/tensorflow/benchmarks/tree/master/scripts/tf_cnn_benchmarks)
-* [webscraping-thread](https://news.ycombinator.com/item?id=15694118)
-* [relp-repo](https://repl.it/site/blog/github)
-* [dlib](http://dlib.net/books.html)
+## Other resources & references
+* [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+* [webscraping-thread](https://news.ycombinator.com/item?id=15694118) - Ask HN: What are best tools for web scraping?
+* [relp-repo](https://repl.it/site/blog/github) - Run repo in browser
+
+## Book & Roadmap 
+* [dlib](http://dlib.net/books.html) - Suggested Books
