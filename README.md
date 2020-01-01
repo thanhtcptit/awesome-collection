@@ -15,7 +15,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
 | [💰 Commercial Platforms](#commercial-platforms) | [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
-| [😎 Cool projects](#cool-projects) | [📌 Other resources & references](#other-resources--references) | [Book & Roadmap](#book--roadmap)
+| [😎 Cool projects](#cool-projects) | [📌 Other resources & references](#other-resources--references) | [📚 Book & Roadmap](#book--roadmap)
 
 
 # Main Content
