@@ -305,6 +305,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [Data Performance](https://www.tensorflow.org/guide/data_performance) - Better performance with the tf.data API
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
+* [nlp-recipes](https://github.com/microsoft/nlp-recipes/) - Natural Language Processing Best Practices & Examples
 
 
 ## Cool projects
