@@ -180,6 +180,8 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [Kashgari](https://github.com/BrikerMan/Kashgari) ![](https://img.shields.io/github/stars/BrikerMan/Kashgari.svg?style=social) - Kashgari is a simple and powerful NLP Transfer learning framework, build a state-of-art model in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS), and text classification tasks.
 * [Github's Semantic](https://github.com/github/semantic) ![](https://img.shields.io/github/stars/github/semantic.svg?style=social) - Github's text library for parsing, analyzing, and comparing source code across many languages .
 * [Stable Baselines](https://github.com/hill-a/stable-baselines) ![](https://img.shields.io/github/stars/hill-a/stable-baselines.svg?style=social) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms http://stable-baselines.readthedocs.io/.
+* [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
+* [ALBERT_vi](https://github.com/ngoanpv/albert_vi) - ALBERT for Vietnamese.
 
 ## Data Pipeline ETL Frameworks
 * [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
