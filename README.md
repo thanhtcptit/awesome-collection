@@ -182,6 +182,9 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [Stable Baselines](https://github.com/hill-a/stable-baselines) ![](https://img.shields.io/github/stars/hill-a/stable-baselines.svg?style=social) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms http://stable-baselines.readthedocs.io/.
 * [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 * [ALBERT_vi](https://github.com/ngoanpv/albert_vi) - ALBERT for Vietnamese.
+* [MLP Model Example](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 < Tensorflow < 2.0.
+* [nlp-recipes](https://github.com/microsoft/nlp-recipes/) - Natural Language Processing Best Practices & Examples
+
 
 ## Data Pipeline ETL Frameworks
 * [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
@@ -307,13 +310,12 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [Data Performance](https://www.tensorflow.org/guide/data_performance) - Better performance with the tf.data API
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
-* [nlp-recipes](https://github.com/microsoft/nlp-recipes/) - Natural Language Processing Best Practices & Examples
-
 
 ## Cool projects
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf. Your agents are standing by!
-* [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline
+* [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 
 ## Other resources & references
 * [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
