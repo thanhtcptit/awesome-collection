@@ -184,7 +184,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [ALBERT_vi](https://github.com/ngoanpv/albert_vi) - ALBERT for Vietnamese.
 * [MLP Model Example](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 < Tensorflow < 2.0.
 * [nlp-recipes](https://github.com/microsoft/nlp-recipes/) - Natural Language Processing Best Practices & Examples
-
+* [PhoBERT](https://github.com/VinAIResearch/PhoBERT)
 
 ## Data Pipeline ETL Frameworks
 * [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
