@@ -10,8 +10,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 |-|-|-|
 |[🔍 Explaining predictions & models](#explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#privacy-preserving-machine-learning) | [📜 Model & data versioning](#model-and-data-versioning)|
 |[🏁 Model Orchestration](#model-deployment-and-orchestration-frameworks)|[⚔ Adversarial Robustness](#adversarial-robustness-libraries)|[🤖 Neural Architecture Search](#neural-architecture-search)|
-| [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
-| [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
+| [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) | [🔠 Music Information Retrieval](#music-information-retrieval) | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) | [🗞️ Data storage](#data-storage-optimisation) |
 | [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
 | [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
 | [💰 Commercial Platforms](#commercial-platforms) | [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
@@ -185,6 +184,10 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [MLP Model Example](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 < Tensorflow < 2.0.
 * [nlp-recipes](https://github.com/microsoft/nlp-recipes/) - Natural Language Processing Best Practices & Examples
 * [PhoBERT](https://github.com/VinAIResearch/PhoBERT)
+
+## Music Information Retrieval
+* [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music.
+* [dl4mir](https://github.com/keunwoochoi/dl4mir) - Deep learning for MIR
 
 ## Data Pipeline ETL Frameworks
 * [Apache Airflow](https://airflow.apache.org/) - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation
