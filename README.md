@@ -191,6 +191,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music.
 * [dl4mir](https://github.com/keunwoochoi/dl4mir) - Deep learning for MIR.
 * [ismir](https://ismir.net/resources/) - Resources of ISMIR.
+* [musicnn](https://github.com/jordipons/musicnn) - musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging.
 
 ## Computer Vision
 
