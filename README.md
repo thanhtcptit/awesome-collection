@@ -192,6 +192,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [dl4mir](https://github.com/keunwoochoi/dl4mir) - Deep learning for MIR.
 * [ismir](https://ismir.net/resources/) - Resources of ISMIR.
 * [musicnn](https://github.com/jordipons/musicnn) - musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging.
+* [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence.
 
 ## Computer Vision
 
