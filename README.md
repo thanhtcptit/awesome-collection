@@ -316,6 +316,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 
 ## Recipe, Tutorial, Tip & Tricks
 * [EffectiveTF](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow 1.x and 2.x tutorials and best practices
+* [Better TF doc](https://apimirror.com/tensorflow~guide/)
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - A Recipe for Training Neural Networks
 * [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
 * [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/) - How to Train Your ResNet 8: Bag of Tricks
