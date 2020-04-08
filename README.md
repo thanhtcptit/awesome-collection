@@ -323,13 +323,13 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [Data Performance](https://www.tensorflow.org/guide/data_performance) - Better performance with the tf.data API
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
+* [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
 
 ## Cool projects
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf. Your agents are standing by!
 * [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
-* [NVIDIA NGC](https://ngc.nvidia.com)
 
 ## Other resources & references
 * [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
