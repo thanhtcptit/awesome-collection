@@ -329,6 +329,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf. Your agents are standing by!
 * [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
+* [NVIDIA NGC](https://ngc.nvidia.com)
 
 ## Other resources & references
 * [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
