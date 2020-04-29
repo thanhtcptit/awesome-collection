@@ -336,6 +336,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [webscraping-thread](https://news.ycombinator.com/item?id=15694118) - Ask HN: What are best tools for web scraping?
 * [relp-repo](https://repl.it/site/blog/github) - Run repo in browser
 * [how a good cv look](https://careercup.com/resume)
+* [CV tips](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html?cid=sf01002)
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
