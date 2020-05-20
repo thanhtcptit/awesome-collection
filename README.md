@@ -10,7 +10,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 |-|-|-|
 | [🔍 Explaining predictions & models](#explaining-black-box-models-and-datasets) | [🔏 Privacy preserving ML](#privacy-preserving-machine-learning) | [📜 Model & data versioning](#model-and-data-versioning) |
 | [🏁 Model Orchestration](#model-deployment-and-orchestration-frameworks) | [⚔ Adversarial Robustness](#adversarial-robustness-libraries) | [🤖 Neural Architecture Search](#neural-architecture-search) |
-| [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [Model Serving](#model-serving) |
+| [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [⚔️ Model Serving](#model-serving) |
 | [🔠 Industry-strength NLP](#industrial-strength-nlp) | [🎼 Music Information Retrieval](#music-information-retrieval) | [📷 Computer vision](#computer-vision) |
 | [🛒 Recommendation System](#recommendation-system) | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |
 | [🗞️ Data storage](#data-storage-optimisation) | [📡 Functions as a service](#function-as-a-service-frameworks) | [🗺️ Computation distribution](#computation-load-distribution-frameworks) |
