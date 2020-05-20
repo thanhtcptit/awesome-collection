@@ -8,15 +8,18 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 
 | | | |
 |-|-|-|
-|[🔍 Explaining predictions & models](#explaining-black-box-models-and-datasets) | [🔏 Privacy preserving ML](#privacy-preserving-machine-learning) | [📜 Model & data versioning](#model-and-data-versioning) |
-|[🏁 Model Orchestration](#model-deployment-and-orchestration-frameworks) | [⚔ Adversarial Robustness](#adversarial-robustness-libraries) | [🤖 Neural Architecture Search](#neural-architecture-search) |
-| [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
-| [🎼 Music Information Retrieval](#music-information-retrieval) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) | [🗞️ Data storage](#data-storage-optimisation) |
-| [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
-| [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
-| [💰 Commercial Platforms](#commercial-platforms) | [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
-| [😎 Cool projects](#cool-projects) | [📌 Other resources & references](#other-resources--references) | [📚 Book & Roadmap](#book--roadmap)
+| [🔍 Explaining predictions & models](#explaining-black-box-models-and-datasets) | [🔏 Privacy preserving ML](#privacy-preserving-machine-learning) | [📜 Model & data versioning](#model-and-data-versioning) |
+| [🏁 Model Orchestration](#model-deployment-and-orchestration-frameworks) | [⚔ Adversarial Robustness](#adversarial-robustness-libraries) | [🤖 Neural Architecture Search](#neural-architecture-search) |
+| [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [Model Serving](#model-serving) |
+| [🔠 Industry-strength NLP](#industrial-strength-nlp) | [🎼 Music Information Retrieval](#music-information-retrieval) | [📷 Computer vision](#computer-vision) |
+| [🛒 Recommendation System](#recommendation-system) | [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) |
+| [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |
+| [🗞️ Data storage](#data-storage-optimisation) | [📡 Functions as a service](#function-as-a-service-frameworks) |
+| [🗺️ Computation distribution](#computation-load-distribution-frameworks) |
+| [📥 Model serialisation](#model-serialisation-formats) | [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) |
+| [🌀 Feature engineering](#feature-engineering-automation) | [💰 Commercial Platforms](#commercial-platforms) | [⌸ Data](#data) |
+| [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) | [😎 Cool projects](#cool-projects) | [📌 Other resources & references](#other-resources--references) |
+| [📚 Book & Roadmap](#book--roadmap)
 
 
 # Main Content
@@ -160,7 +163,10 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [Missigno](https://github.com/ResidentMario/missingno) ![](https://img.shields.io/github/stars/ResidentMario/missingno.svg?style=social) - missingno provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset.
 * [XKCD-style plots](http://jakevdp.github.io/blog/2013/07/10/XKCD-plots-in-matplotlib/) - An XKCD theme for matblotlib visualisations
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
+* [Voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 
+## Model Serving
+* [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 
 ## Industrial Strength NLP
 * [SpaCy](https://github.com/explosion/spaCy) ![](https://img.shields.io/github/stars/explosion/spaCy.svg?style=social) - Industrial-strength natural language processing library built with python and cython by the explosion.ai team.
