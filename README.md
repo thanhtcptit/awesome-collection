@@ -328,6 +328,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
 * [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
+* [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns
 
 ## Cool projects
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
