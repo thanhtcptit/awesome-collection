@@ -165,6 +165,7 @@ Inspired by [EthicalML](https://github.com/EthicalML/awesome-production-machine-
 
 ## Model Serving
 * [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
+* [Fast API](https://fastapi.tiangolo.com/)
 
 ## Industrial Strength NLP
 * [SpaCy](https://github.com/explosion/spaCy) ![](https://img.shields.io/github/stars/explosion/spaCy.svg?style=social) - Industrial-strength natural language processing library built with python and cython by the explosion.ai team.
