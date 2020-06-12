@@ -4,16 +4,18 @@
 
 | | | |
 |-|-|-|
-| [🔍 Machine Learning Tools](#machine-learning-tools) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
-| [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) | [⌸ Data](#data) |
-| [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) | [😎 Cool projects](#cool-projects) | [📌 Other resources & references](#other-resources--references) |
-| [📚 Book & Roadmap](#book--roadmap)
+| [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
+| [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
+| [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) | [📌 Other resources & references](#other-resources--references) |
+| [📚 Book & Roadmap](#book--roadmap) | | |
 
 
 # Main Content
 
-## Machine Learning Tools
-* [Awesome ML](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+## Machine Learning
+* [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+* [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 
 ## Natural Language Processing
 * [Awesome NLP](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -30,8 +32,12 @@
 * [musicnn](https://github.com/jordipons/musicnn) - musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging.
 * [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence.
 
+## Speech
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
+
 ## Computer Vision
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+* [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
 
 ## Recommendation System
 * [Awesome ResSys](https://github.com/gaolinjie/awesome-recommender-systems) - A curated list of awesome resources about Recommender Systems.
@@ -40,7 +46,6 @@
 * [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
 * [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
 * [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
-
 
 ## Recipe, Tutorial, Tip & Tricks
 * [EffectiveTF](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow 1.x and 2.x tutorials and best practices
@@ -52,21 +57,12 @@
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
 * [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns
-
-## Cool projects
-* [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
-* [huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf. Your agents are standing by!
-* [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
-* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
+* [Facebook Field Guide](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 
 ## Other resources & references
 * [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 * [webscraping-thread](https://news.ycombinator.com/item?id=15694118) - Ask HN: What are best tools for web scraping?
 * [relp-repo](https://repl.it/site/blog/github) - Run repo in browser
-* [how a good cv look](https://careercup.com/resume)
-* [CV tips](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html?cid=sf01002)
-* [TF Certificate](https://www.tensorflow.org/site-assets/downloads/marketing/cert/TF_Certificate_Candidate_Handbook.pdf)
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
-* [coding-interview](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
