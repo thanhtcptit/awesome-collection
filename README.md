@@ -6,14 +6,15 @@
 |-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) | [📌 Other resources & references](#other-resources--references) |
-| [📚 Book & Roadmap](#book--roadmap) | | |
+| [Programming Languages](#programming-languages) | [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
+| [📚 Book & Roadmap](#book--roadmap) | [📌 Other resources & references](#other-resources--references) | |
 
 
 # Main Content
 
 ## Machine Learning
 * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 * [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 
@@ -41,6 +42,9 @@
 
 ## Recommendation System
 * [Awesome ResSys](https://github.com/gaolinjie/awesome-recommender-systems) - A curated list of awesome resources about Recommender Systems.
+
+## Programming Languages
+* [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## Data
 * [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
