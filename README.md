@@ -6,8 +6,8 @@
 |-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [Programming Languages](#programming-languages) | [⌸ Data](#data) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
-| [📚 Book & Roadmap](#book--roadmap) | [📌 Other resources & references](#other-resources--references) | |
+| [⌨ Programming Languages](#programming-languages) | [⌸ Data](#data) | [🗂  Data Engineer](#data-engineer) |
+| [📚 Book & Roadmap](#book--roadmap) | [📌 Other resources & references](#other-resources--references) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
 
 
 # Main Content
@@ -45,6 +45,9 @@
 
 ## Programming Languages
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+
+## Data Engineer
+* [Awesome Data Engineer](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
 
 ## Data
 * [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
