@@ -34,6 +34,8 @@
 * [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence.
 
 ## Speech
+* [Awesome Speech Recognition](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - 
+* [ITSP](https://wiki.aalto.fi/display/ITSP - A collection of pedagogical material within the topic of speech and language technology
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 
 ## Computer Vision
