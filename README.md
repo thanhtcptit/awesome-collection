@@ -2,7 +2,7 @@
 
 ## Layout
 
-| | | |
+|-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
 | [⌨ Programming Languages](#programming-languages) | [🗂  Data Engineer](#data-engineer) | [⌸ Data](#data) |
