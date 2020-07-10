@@ -66,7 +66,7 @@
 * [Data Performance](https://www.tensorflow.org/guide/data_performance) - Better performance with the tf.data API
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
-* [Full Stack DL Course](https://course.fullstackdeeplearning.com/)- From training machine learning models to deploying AI systems in the real world
+* [Full Stack DL Course](https://course.fullstackdeeplearning.com/) - From training machine learning models to deploying AI systems in the real world
 * [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns
 * [Facebook Field Guide](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
