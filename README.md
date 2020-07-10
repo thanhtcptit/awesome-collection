@@ -3,11 +3,10 @@
 ## Layout
 
 | | | |
-|-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [⌨ Programming Languages](#programming-languages) | [⌸ Data](#data) | [🗂  Data Engineer](#data-engineer) |
-| [📚 Book & Roadmap](#book--roadmap) | [📌 Other resources & references](#other-resources--references) | [👍 Recipe, Tutorial, Tip & Tricks](#recipe-tutorial-tip--tricks) |
+| [⌨ Programming Languages](#programming-languages) | [🗂  Data Engineer](#data-engineer) | [⌸ Data](#data) |
+| [👍 Courses, tutorial, tips & tricks](#courses-tutorial-tips--tricks) | [📌 Other resources & references](#other-resources--references) | [📚 Book & Roadmap](#book--roadmap) |
 
 
 # Main Content
@@ -58,7 +57,7 @@
 * [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
 * [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
 
-## Recipe, Tutorial, Tip & Tricks
+## Courses, tutorial, tips & tricks
 * [EffectiveTF](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow 1.x and 2.x tutorials and best practices
 * [Better TF doc](https://apimirror.com/tensorflow~guide/)
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - A Recipe for Training Neural Networks
@@ -66,6 +65,7 @@
 * [Data Performance](https://www.tensorflow.org/guide/data_performance) - Better performance with the tf.data API
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
+* [Full Stack DL Course](https://course.fullstackdeeplearning.com/)- From training machine learning models to deploying AI systems in the real world
 * [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns
 * [Facebook Field Guide](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
