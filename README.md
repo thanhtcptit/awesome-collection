@@ -59,7 +59,7 @@
 * [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
 
 ## Courses & tutorials
-* [Full Stack Python](https://www.fullstackpython.com/)
+* [Full Stack Python](https://www.fullstackpython.com/) - Build, Deploy and Operate Python Applications
 * [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
 * [Full Stack DL Course](https://course.fullstackdeeplearning.com/) - From training machine learning models to deploying AI systems in the real world
