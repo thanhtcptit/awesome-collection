@@ -76,7 +76,7 @@
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) - A Recipe for Training Neural Networks
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
-* [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns
+* [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) & [Guide](https://python-patterns.guide/) - A simple library for implementing common design patterns
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
