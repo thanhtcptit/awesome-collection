@@ -7,7 +7,8 @@
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
 | [⌨ Programming Languages](#programming-languages) | [🗂  Data Engineer](#data-engineer) | [⌸ Data](#data) |
-| [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) | [📚 Book & Roadmap](#book--roadmap) |
+| [🖥️ System design](#system-design) | [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) |
+| [📚 Book & Roadmap](#book--roadmap) | | |
 
 
 # Main Content
@@ -60,9 +61,12 @@
 * [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
 * [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
 
+## System design
+* [System design primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
+* [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
+
 ## Courses & tutorials
 * [Full Stack Python](https://www.fullstackpython.com/) - Build, Deploy and Operate Python Applications
-* [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
 * [Full Stack DL Course](https://course.fullstackdeeplearning.com/) - From training machine learning models to deploying AI systems in the real world
 * [Facebook Field Guide](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
