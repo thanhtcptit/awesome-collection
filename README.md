@@ -28,6 +28,7 @@
 * [MLP Model Example](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 < Tensorflow < 2.0.
 * [nlp-recipes](https://github.com/microsoft/nlp-recipes/) - Natural Language Processing Best Practices & Examples
 * [PhoBERT](https://github.com/VinAIResearch/PhoBERT) - BERT for Vietnamese
+* [Sentence Transformer](https://github.com/UKPLab/sentence-transformers) - Sentence Embedding with BERT & XLNet
 * [ParlAI](https://github.com/facebookresearch/ParlAI) - A python framework for sharing, training and testing dialogue model from Facebook
 * [Rasa](https://github.com/RasaHQ/rasa) - An open source machine learning framework to automate text-and voice-based conversation
 
