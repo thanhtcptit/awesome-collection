@@ -19,6 +19,7 @@
 * [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [Tensorflow Models](https://github.com/tensorflow/models) - Model Garden for TensorFlow
+* [Interactive Machine Learning](https://github.com/stared/interactive-machine-learning-list/) - A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites
 
 ## Natural Language Processing
 * [Awesome NLP](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -84,6 +85,7 @@
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) & [Guide](https://python-patterns.guide/) - A simple library for implementing common design patterns
+* [Data Science Project Template](https://github.com/drivendata/cookiecutter-data-science/) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
