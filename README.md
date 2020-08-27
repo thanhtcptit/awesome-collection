@@ -73,6 +73,7 @@
 * [Full Stack DL Course](https://course.fullstackdeeplearning.com/) - From training machine learning models to deploying AI systems in the real world
 * [Facebook Field Guide](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 * [Model Serving](https://viblo.asia/p/model-serving-trien-khai-machine-learning-model-len-production-voi-tensorflow-serving-deploy-machine-learning-model-in-production-with-tensorflow-serving-XL6lAvvN5ek) - Serving DL models
+* [NN4NLP](http://phontron.com/class/nn4nlp2017/) - Neural Networks for NLP
 
 ## Other resources & references
 * [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
