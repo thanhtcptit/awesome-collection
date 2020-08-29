@@ -24,6 +24,7 @@
 ## Natural Language Processing
 * [Awesome NLP](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
 * [NLP Papers](https://github.com/iwangjian/Paper-Reading) - Paper reading list in natural language processing, including dialogue system, text summarization, topic modeling, etc.
+* [NLP Roadmap](https://github.com/graykode/nlp-roadmap) - ROADMAP(Mind Map) and KEYWORD for students those who have interest in learning NLP
 * [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 * [ALBERT_vi](https://github.com/ngoanpv/albert_vi) - ALBERT for Vietnamese.
 * [MLP Model Example](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 < Tensorflow < 2.0.
