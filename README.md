@@ -91,3 +91,4 @@
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
+* [ML Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning
