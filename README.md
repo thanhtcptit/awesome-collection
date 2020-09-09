@@ -6,7 +6,7 @@
 |-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [⌨ Programming Languages](#programming-languages) | [🗂  Research Engineer Resources(#research-engineer-resources) | [⌸ Data](#data) |
+| [⌨ Programming Languages](#programming-languages) | [🗂  Research Engineer Resources](#research-engineer-resources) | [⌸ Data](#data) |
 | [🖥️ System design](#system-design) | [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) |
 | [📚 Book & Roadmap](#book--roadmap) | | |
 
