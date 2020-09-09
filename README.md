@@ -6,7 +6,7 @@
 |-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [⌨ Programming Languages](#programming-languages) | [🗂  Data Engineer](#data-engineer) | [⌸ Data](#data) |
+| [⌨ Programming Languages](#programming-languages) | [🗂  Research Engineer Resources(#research-engineer-resources) | [⌸ Data](#data) |
 | [🖥️ System design](#system-design) | [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) |
 | [📚 Book & Roadmap](#book--roadmap) | | |
 
@@ -16,9 +16,9 @@
 ## Machine Learning
 * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 * [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [Tensorflow Models](https://github.com/tensorflow/models) - Model Garden for TensorFlow
+* [Pytorch Examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 * [Interactive Machine Learning](https://github.com/stared/interactive-machine-learning-list/) - A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites
 
 ## Natural Language Processing
@@ -56,8 +56,10 @@
 ## Programming Languages
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 
-## Data Engineer
+## Research Engineer Resources
 * [Awesome Data Engineer](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
+* [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+* [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
 
 ## Data
 * [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
