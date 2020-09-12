@@ -16,10 +16,6 @@
 ## Machine Learning
 * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 * [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
-* [Tensorflow Models](https://github.com/tensorflow/models) - Model Garden for TensorFlow
-* [Pytorch Examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
-* [Interactive Machine Learning](https://github.com/stared/interactive-machine-learning-list/) - A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites
 
 ## Natural Language Processing
 * [Awesome NLP](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -60,6 +56,7 @@
 * [Awesome Data Engineer](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
 * [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
+* [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 
 ## Data
 * [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
@@ -89,7 +86,10 @@
 * [pythontips](http://book.pythontips.com/en/latest/) - Intermediate Python
 * [NVIDIA NGC](https://ngc.nvidia.com) - Build and Deploy AI Applications Faster
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) & [Guide](https://python-patterns.guide/) - A simple library for implementing common design patterns
-* [Data Science Project Template](https://github.com/drivendata/cookiecutter-data-science/) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+* [Pytorch Examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+* [Interactive Machine Learning](https://github.com/stared/interactive-machine-learning-list/) - A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites
+* [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
+* [Tensorflow Models](https://github.com/tensorflow/models) - Model Garden for TensorFlow
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
