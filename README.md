@@ -57,6 +57,7 @@
 * [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 * [Awesome Mobile ML](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices
+* [Awesome TFLite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources.
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
 * [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 * [QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
@@ -79,6 +80,8 @@
 * [Model Serving](https://viblo.asia/p/model-serving-trien-khai-machine-learning-model-len-production-voi-tensorflow-serving-deploy-machine-learning-model-in-production-with-tensorflow-serving-XL6lAvvN5ek) - Serving DL models
 * [NN4NLP](http://phontron.com/class/nn4nlp2017/) - Neural Networks for NLP
 * [Mixed Precision Training](https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/) - Accelerating Computer Vision with Mixed Precision
+* [Pytorch DL](https://atcold.github.io/pytorch-Deep-Learning/)
+* [MIT DL](https://github.com/lexfridman/mit-deep-learning)
 
 ## Other resources & references
 * [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
@@ -93,8 +96,8 @@
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) & [Guide](https://python-patterns.guide/) - A simple library for implementing common design patterns
 * [Pytorch Examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 * [Interactive Machine Learning](https://github.com/stared/interactive-machine-learning-list/) - A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites
-* [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [Tensorflow Models](https://github.com/tensorflow/models) - Model Garden for TensorFlow
+* [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
