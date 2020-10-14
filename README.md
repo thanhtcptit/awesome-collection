@@ -73,6 +73,7 @@
 * [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
 
 ## Courses & tutorials
+* [Google code review guidelines](https://google.github.io/eng-practices)
 * [Full Stack Python](https://www.fullstackpython.com/) - Build, Deploy and Operate Python Applications
 * [Full Stack DL](https://fullstackdeeplearning.com/march2019) - Spring 2019 Full Stack Deep Learning Bootcamp
 * [Full Stack DL Course](https://course.fullstackdeeplearning.com/) - From training machine learning models to deploying AI systems in the real world
