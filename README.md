@@ -60,6 +60,7 @@
 * [Awesome TFLite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources.
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
 * [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+* [ArmNN](https://github.com/ARM-software/armnn) - Arm NN ML Software
 * [QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
 * [AI Benchmark](http://ai-benchmark.com/)
 
