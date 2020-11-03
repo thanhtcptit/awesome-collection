@@ -58,6 +58,8 @@
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 * [Awesome Mobile ML](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices
 * [Awesome TFLite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources.
+* [Catalyst](https://github.com/catalyst-team/catalyst) - PyTorch framework for Deep Learning research and development.
+* [Pytorch Lighting](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
 * [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 * [ArmNN](https://github.com/ARM-software/armnn) - Arm NN ML Software
