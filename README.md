@@ -6,9 +6,9 @@
 |-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [⌨ Programming Languages](#programming-languages) | [🗂  Research Engineer Resources](#research-engineer-resources) | [⌸ Data](#data) |
+| [⌨ Programming Languages](#programming-languages) | [🗂  ML Engineer](#ml-engineer) | [📱 ML for Edge Device](#ml-for-edge-device) |
 | [🖥️ System design](#system-design) | [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) |
-| [📚 Book & Roadmap](#book--roadmap) | | |
+| [⌸ Data](#data) | [📚 Book & Roadmap](#book--roadmap) | |
 
 
 # Main Content
@@ -52,18 +52,23 @@
 ## Programming Languages
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 
-## Research Engineer Resources
+## ML Engineer
 * [Awesome Data Engineer](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
 * [Awesome ML Production](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
-* [Awesome Mobile ML](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices
-* [Awesome TFLite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources.
 * [Catalyst](https://github.com/catalyst-team/catalyst) - PyTorch framework for Deep Learning research and development.
 * [Pytorch Lighting](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research
+* [Tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
+
+## ML for Edge Device
+* [Awesome Mobile ML](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices
+* [Awesome TFLite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources.
 * [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
 * [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 * [ArmNN](https://github.com/ARM-software/armnn) - Arm NN ML Software
 * [QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
+* [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
+* [Arm Neon](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon) - an advanced Single Instruction Multiple Data (SIMD) architecture extension
 * [AI Benchmark](http://ai-benchmark.com/)
 
 ## Data
@@ -102,6 +107,7 @@
 * [Interactive Machine Learning](https://github.com/stared/interactive-machine-learning-list/) - A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites
 * [Tensorflow Models](https://github.com/tensorflow/models) - Model Garden for TensorFlow
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
+* [CMake Examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
