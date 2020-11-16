@@ -71,11 +71,6 @@
 * [Arm Neon](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon) - an advanced Single Instruction Multiple Data (SIMD) architecture extension
 * [AI Benchmark](http://ai-benchmark.com/)
 
-## Data
-* [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
-* [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
-* [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
-
 ## System design
 * [System design primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
 * [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -108,6 +103,12 @@
 * [Tensorflow Models](https://github.com/tensorflow/models) - Model Garden for TensorFlow
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [CMake Examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
+* [Docker Samples](https://github.com/dockersamples) - Docker Samples
+
+## Data
+* [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
+* [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
+* [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
