@@ -5,10 +5,10 @@
 | | | |
 |-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
-| [🤖 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
+| [💬 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
 | [⌨ Programming Languages](#programming-languages) | [🗂  ML Engineer](#ml-engineer) | [📱 ML for Edge Device](#ml-for-edge-device) |
-| [🖥️ System design](#system-design) | [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) |
-| [⌸ Data](#data) | [📚 Book & Roadmap](#book--roadmap) | |
+| [🤖 Robotics](#robotics) | [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) |
+| [🖥️ System design](#system-design) | [⌸ Data](#data) | [📚 Book & Roadmap](#book--roadmap) |
 
 
 # Main Content
@@ -71,9 +71,8 @@
 * [Arm Neon](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon) - an advanced Single Instruction Multiple Data (SIMD) architecture extension
 * [AI Benchmark](http://ai-benchmark.com/)
 
-## System design
-* [System design primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
-* [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
+## Robotics
+* [robotics coursework](https://github.com/mithi/robotics-coursework) - Places where you can learn robotics (and stuff like that) online
 
 ## Courses & tutorials
 * [Google code review guidelines](https://google.github.io/eng-practices)
@@ -105,10 +104,16 @@
 * [CMake Examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 * [Docker Samples](https://github.com/dockersamples) - Docker Samples
 
+## System design
+* [System design primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
+* [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
+
 ## Data
 * [Awesome Dataset](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
 * [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
 * [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
+* [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
+* [Img Labaler](https://github.com/erikbernheim/img-labeler) - A tool for polygonal segmentation, created with Angular + D3
 
 ## Book & Roadmap 
 * [dlib](http://dlib.net/books.html) - Suggested Books
