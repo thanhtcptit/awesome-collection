@@ -115,6 +115,7 @@
 * [GitHub Typo Corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
 * [50 Dataset](https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/?fbclid=IwAR2BMsLq1qUdxM3NR5wqVg0hpkvnULybUWOX2W5eJ0ThCRrV9a7r2TuxKP8) - The 50 Best Free Datasets for Machine Learning
 * [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
+* [Image Processing Dataset](https://github.com/daooshee/Image-Processing-Datasets) - Datasets for image processing tasks
 * [Img Labaler](https://github.com/erikbernheim/img-labeler) - A tool for polygonal segmentation, created with Angular + D3
 
 ## Book & Roadmap 
