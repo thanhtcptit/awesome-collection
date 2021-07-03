@@ -6,7 +6,7 @@
 |-|-|-|
 | [🔍 Machine Learning](#machine-learning) | [🔠 Natural Language Processing](#natural-language-processing) | [🎼 Music Information Retrieval](#music-information-retrieval) |
 | [💬 Speech](#speech) | [📷 Computer vision](#computer-vision) | [🛒 Recommendation System](#recommendation-system) |
-| [⌨ Programming Languages](#programming-languages) | [🗂  ML Engineer](#ml-engineer) | [📱 ML for Edge Device](#ml-for-edge-device) |
+| [⌨ Programming Languages](#programming-languages) | [🗂  ML Engineer](#ml-engineer) | [📱 ML Optimization](#ml-optimization) |
 | [🤖 Robotics](#robotics) | [👍 Courses & tutorials](#courses--tutorials) | [📌 Other resources & references](#other-resources--references) |
 | [🖥️ System design](#system-design) | [⌸ Data](#data) | [📚 Book & Roadmap](#book--roadmap) |
 
