@@ -73,6 +73,7 @@
 * [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 * [Arm Neon](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon) - an advanced Single Instruction Multiple Data (SIMD) architecture extension
 * [AI Benchmark](http://ai-benchmark.com/)
+* [Ultra lightweight face detection](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 
 ## Robotics
 * [robotics coursework](https://github.com/mithi/robotics-coursework) - Places where you can learn robotics (and stuff like that) online
