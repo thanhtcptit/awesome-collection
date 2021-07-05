@@ -107,6 +107,7 @@
 * [Numpy-ML](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * [CMake Examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 * [Docker Samples](https://github.com/dockersamples) - Docker Samples
+* [PlotNeuralNetwork](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 
 ## System design
 * [System design primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
