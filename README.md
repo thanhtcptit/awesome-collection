@@ -16,6 +16,9 @@
 ## Machine Learning
 * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 * [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) - A collection of AWESOME things about domian adaptation
+* [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources
+
 
 ## Natural Language Processing
 * [Awesome NLP](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -44,7 +47,6 @@
 
 ## Computer Vision
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-* [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources
 * [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
 
 ## Recommendation System
@@ -52,6 +54,7 @@
 
 ## Programming Languages
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+* [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources
 
 ## ML Engineer
 * [Awesome Data Engineer](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
@@ -62,6 +65,7 @@
 * [Tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 
 ## ML Optimization
+* [Awesome CUDA](https://github.com/Erkaman/Awesome-CUDA) - This is a list of useful libraries and resources for CUDA development.
 * [Awesome Mobile ML](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices
 * [Awesome TFLite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources
 * [FB mobile vision](https://github.com/facebookresearch/mobile-vision) - Mobile vision models and code
