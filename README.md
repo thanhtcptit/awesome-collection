@@ -97,6 +97,7 @@
 
 ## Other resources & references
 * [Awesome collections](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+* [Awesome open source](https://awesomeopensource.com/)
 * [webscraping-thread](https://news.ycombinator.com/item?id=15694118) - Ask HN: What are best tools for web scraping?
 * [relp-repo](https://repl.it/site/blog/github) - Run repo in browser
 * [EffectiveTF](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow 1.x and 2.x tutorials and best practices
