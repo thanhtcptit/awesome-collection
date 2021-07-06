@@ -47,6 +47,7 @@
 
 ## Computer Vision
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+* [Awesome Image Translation](https://github.com/weihaox/awesome-image-translation) - A collection of awesome resources image-to-image translation.
 * [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
 
 ## Recommendation System
