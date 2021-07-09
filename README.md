@@ -50,6 +50,7 @@
 * [Awesome Image Translation](https://github.com/weihaox/awesome-image-translation) - A collection of awesome resources image-to-image translation.
 * [Awesome Low Light](https://github.com/dawnlh/low-light-image-enhancement-resources) - This is a resouce list for low light image enhancement
 * [face-swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline.
+* [LFD](https://github.com/YonghaoHe/LFD-A-Light-and-Fast-Detector) - LFD is a multi-class object detector characterized by lightweight, low inference latency and superior precision. It is for real-world appilcations.
 
 ## Recommendation System
 * [Awesome ResSys](https://github.com/gaolinjie/awesome-recommender-systems) - A curated list of awesome resources about Recommender Systems.
