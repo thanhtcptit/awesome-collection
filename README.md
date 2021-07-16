@@ -16,6 +16,8 @@
 ## Machine Learning
 * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 * [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome Self-supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
+* [Awesome Transfer Learning](https://github.com/artix41/awesome-transfer-learning) - Best transfer learning and domain adaptation resources
 * [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) - A collection of AWESOME things about domian adaptation
 * [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources
 
